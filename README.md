@@ -2,4 +2,4 @@
 Thids is my first repository
 Tohid kazi
 <br>
-Fy student of VIIT college 
+Fy student of VIIT (jr.mit college)
